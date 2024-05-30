@@ -6,4 +6,4 @@ it contains an html file and css file.
 
 
 ###  Author
-Ashay Kushwaha
+Ashay Kushwaha (B.tech student)

@@ -2,5 +2,8 @@
 
 This is my first GitHub repository.
 
-## Author
+it contains an html file and css file.
+
+
+###  Author
 Ashay Kushwaha
